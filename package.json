@@ -1,7 +1,7 @@
 {
   "name": "expense-tracker",
   "version": "0.1.0",
-  "homepage": "https://yassinerzk.github.io/Expense-Tracker-react-",
+  "homepage": "https://yassinerzk.github.io/ExpenseTrakerFront",
   "private": true,
   "dependencies": {
     "cra-template": "1.0.2",
@@ -31,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
